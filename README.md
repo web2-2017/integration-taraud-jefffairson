@@ -9,3 +9,5 @@
 4. Si c'est possible, ajouter une petite couche de responsive (mais pas obligatoire)
 
 REMARQUE : ne pas utiliser de JS pour le moment, pour le "social wall*" en page d'accueil, il est possible de le monter sans JS en respectant proprement les hauteurs différentes des blocs.
+
+* un "social wall" ou "mur social" est une remontée programée des différents flux de réseaux sociaux de l'utilisateur concerné
